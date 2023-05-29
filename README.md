@@ -1,4 +1,4 @@
-# API-newman-b7
+# API Newman Automation
 
 ## Project Summary
 this project has automate user API from postman using newman
