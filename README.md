@@ -21,7 +21,7 @@ A report will be generate in your project source root
 <link>
 
 ## Bug report
-<link>
+<[link](https://docs.google.com/spreadsheets/d/1dOqRj8hpVuJx0YtSUFsr9XwDJW4cCb7XHuVBTQ4kXKc/edit?usp=sharing)>
 
 ## API Documentation:
 https://documenter.getpostman.com/view/27594747/2s93m8yLZS
